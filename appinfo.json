@@ -1,0 +1,10 @@
+{
+  "id": "com.gmonks.game",
+  "version": "1.0.0",
+  "vendor": "Gmonks Games",
+  "type": "web",
+  "main": "index.html",
+  "title": "FTB - test",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
